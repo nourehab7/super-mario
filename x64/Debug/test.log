@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\vs code\test\Source.cpp(82,30): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  test.vcxproj -> D:\vs code\test\x64\Debug\test.exe
